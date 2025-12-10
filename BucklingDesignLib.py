@@ -19,8 +19,7 @@ class Shell:
         self.A = 2*m.pi*self.R*self.t
         self.I = self.R**3*m.pi*self.t
 
-
-    
+a=1
     
 shell = Shell(1,0.001,2)
 
