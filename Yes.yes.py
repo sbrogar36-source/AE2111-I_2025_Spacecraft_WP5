@@ -1,5 +1,1 @@
-# yes
-hea
-hell yeah
-
-hahha
+import numpy as np
