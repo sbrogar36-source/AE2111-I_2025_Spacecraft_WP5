@@ -20,7 +20,6 @@ class Shell:
         self.I = self.R**3*m.pi*self.t
 
 a=1
-    
 shell = Shell(1,0.001,2)
 
 AL2024T6 = Material(10.5e+6,0.33,2795.67,406.791)
